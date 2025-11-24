@@ -39,3 +39,11 @@ Showing the Task Manager view after reboot, confirming the successful change. Th
 ![Task Manager - Virtualization Enabled](https://github.com/user-attachments/assets/866b7cbb-ca63-45a8-91b7-382b0631d7a6)
 
 
+
+### 1.4. Verification: Hypervisor Operational (stan Powered On).
+
+
+<img width="1232" height="882" alt="image" src="https://github.com/user-attachments/assets/2683e54c-3b42-437b-bce3-42059a7c5516" />
+
+
+
