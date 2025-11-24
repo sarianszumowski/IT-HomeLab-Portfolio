@@ -34,6 +34,8 @@ The main goal of this portfolio is to document practical knowledge in IT Support
 
 **Evidence (After Fix):**
 Showing the Task Manager view after reboot, confirming the successful change. This confirms the host system is now ready for Project 2.
+
+
 ![Task Manager - Virtualization Enabled](https://github.com/user-attachments/assets/866b7cbb-ca63-45a8-91b7-382b0631d7a6)
 
 
