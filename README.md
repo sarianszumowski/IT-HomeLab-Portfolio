@@ -24,8 +24,7 @@ The main goal of this portfolio is to document practical knowledge in IT Support
 #### 1. Initial State: Virtualization **Disabled**
 
 **Evidence (Before Fix):**
-Showing the Task Manager view with Virtualization explicitly reported as 'Disabled'.
-![Task Manager - Virtualization Disabled](https://github.com/user-attachments/assets/bd0e753e-fb20-4c7e-9bc3-9e46c7898123)
+> **[NOTE]:** The screenshot of the 'Disabled' state was not captured prior to the BIOS change. The challenge is documented through the necessary action taken to enable the feature.
 
 ---
 
